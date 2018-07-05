@@ -1,9 +1,9 @@
 function sayHi(){
 	return 'привет, мир!'
 };
-alert( sayHi() );
+alert( sayHi().. );
 
 function sayBy(){
 	return 'пока, мир!'
 };
-alert( sayBy() );
+alert( sayBy().. );
