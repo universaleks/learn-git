@@ -3,6 +3,11 @@ function sayHi(){
 };
 alert( sayHi(); );
 
+function sayQuestion(){
+	return 'как дела, мир?'
+};
+alert( sayQuestion(); )
+
 function sayBy(){
 	return 'пока, мир!'
 };
