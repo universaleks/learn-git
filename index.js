@@ -1,4 +1,4 @@
 function sayHi(){
-	return 'привет!'
+	return 'привет, мир!'
 };
 alert( sayHi() );
