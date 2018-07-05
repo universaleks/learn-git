@@ -1,14 +1,14 @@
 function sayHi(){
 	return 'привет, мир!'
 };
-alert( sayHi(); );
+alert( sayHi() );
 
 function sayQuestion(){
 	return 'как дела, мир?'
 };
-alert( sayQuestion(); )
+alert( sayQuestion() )
 
 function sayBy(){
 	return 'пока, мир!'
 };
-alert( sayBy(); );
+alert( sayBy() );
